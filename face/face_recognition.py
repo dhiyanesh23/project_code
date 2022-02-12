@@ -5,7 +5,7 @@ import os
 haar_cascade = cv.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 people = []
-for i in os.listdir(r'D:\sem8_stuff\project_code\faces\train'):
+for i in os.listdir(r'D:\sem8_stuff\project_code\face\faces\train'):
     people.append(i)
 # features = np.load('features.npy', allow_pickle=True)
 # labels = np.load('labels.npy')
@@ -13,7 +13,7 @@ for i in os.listdir(r'D:\sem8_stuff\project_code\faces\train'):
 face_recognizer = cv.face.LBPHFaceRecognizer_create()
 face_recognizer.read('face_trained.yml')
 
-img = cv.imread(r'D:\sem8_stuff\project_code\faces\train\Dhiyanesh\IMG-20190310-WA0113.jpg')
+img = cv.imread(r'D:\sem8_stuff\project_code\face\faces\train\Dhiyanesh\IMG-20190310-WA0113.jpg')
 
 gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
 cv.imshow('Person', gray)

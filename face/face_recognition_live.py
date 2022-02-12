@@ -9,7 +9,7 @@ label = 0
 confidence = 0
 
 people = []
-for i in os.listdir(r'D:\sem8_stuff\project_code\faces\train'):
+for i in os.listdir(r'D:\sem8_stuff\project_code\face\faces\train'):
     people.append(i)
 
 haar_cascade = cv.CascadeClassifier('haarcascade_frontalface_default.xml')

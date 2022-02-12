@@ -3,10 +3,10 @@ import cv2 as cv
 import numpy as np
 
 people = []
-for i in os.listdir(r'D:\sem8_stuff\project_code\faces\train'):
+for i in os.listdir(r'D:\sem8_stuff\project_code\face\faces\train'):
     people.append(i)
 
-DIR = r'D:\sem8_stuff\project_code\faces\train'
+DIR = r'D:\sem8_stuff\project_code\face\faces\train'
 
 haar_cascade = cv.CascadeClassifier('haarcascade_frontalface_default.xml')
 
