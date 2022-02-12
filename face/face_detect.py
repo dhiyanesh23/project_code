@@ -17,7 +17,7 @@ while 1:
     
     t = ()
     if faces == t:
-        print('no face')
+        print('no face...')
 
     for (x,y,w,h) in faces:
         cv2.rectangle(img,(x,y),(x+w,y+h),(255,0,0),2)
