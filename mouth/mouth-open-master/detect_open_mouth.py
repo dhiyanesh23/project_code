@@ -43,7 +43,7 @@ MOUTH_AR_THRESH = 0.79
 
 # initialize dlib's face detector (HOG-based) and then create
 # the facial landmark predictor
-print("[INFO] loading facial landmark predictor...")
+print("[INFO] loading facial landmark predictor....")
 detector = dlib.get_frontal_face_detector()
 predictor = dlib.shape_predictor(args["shape_predictor"])
 
@@ -51,7 +51,7 @@ predictor = dlib.shape_predictor(args["shape_predictor"])
 (mStart, mEnd) = (49, 68)
 
 # start the video stream thread
-print("[INFO] starting video stream thread...")
+print("[INFO] starting video stream thread....")
 vs = VideoStream(src=args["webcam"]).start()
 time.sleep(1.0)
 
