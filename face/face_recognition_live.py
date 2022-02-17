@@ -61,16 +61,16 @@ while(True):
 
 #score calculation
 des_label = 0
-des_confidence = 0
+des_confidence_count = 0
 score = 0
 
 des_label = l.count(id)
 if des_label > 0.9*(len(l)):
     score = 1
     #print("label ", score)
-for i in m:
-    if i < 100:
-        des_confidence_count = des_confidence + 1
+for des_confidence in m:
+    if des_confidence < 100:
+        des_confidence_count = des_confidence_count + 1
 if des_confidence_count > 0.6*(len(m)):
     score = score + 1
     #print("confidence", score)
