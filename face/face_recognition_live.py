@@ -70,8 +70,8 @@ if des_label > 0.9*(len(l)):
     #print("label ", score)
 for i in m:
     if i < 100:
-        des_confidence = des_confidence + 1
-if des_confidence > 0.6*(len(m)):
+        des_confidence_count = des_confidence + 1
+if des_confidence_count > 0.6*(len(m)):
     score = score + 1
     #print("confidence", score)
 if des_face != 0:
