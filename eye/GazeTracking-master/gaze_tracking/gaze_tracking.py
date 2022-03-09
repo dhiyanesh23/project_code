@@ -1,10 +1,14 @@
-from __future__ import division
+from __future__ import division    #future update functions
 import os
 import cv2
 import dlib
-from .eye import Eye
+from .eye import Eye    
 from .calibration import Calibration
-
+'''
+A single dot means that the module or package referenced is in the same directory as the current location. 
+Two dots mean that it is in the parent directory of the current location—that is, the directory above. 
+Three dots mean that it is in the grandparent directory, and so on. 
+'''
 
 class GazeTracking(object):
     """

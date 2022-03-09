@@ -8,7 +8,7 @@ class Pupil(object):
     the position of the pupil
     """
 
-    def __init__(self, eye_frame, threshold):
+    def __init__(self, eye_frame, threshold):   #constructor
         self.iris_frame = None
         self.threshold = threshold
         self.x = None
@@ -16,7 +16,11 @@ class Pupil(object):
 
         self.detect_iris(eye_frame)
 
-    @staticmethod
+
+    '''
+    A static method is also a method that is bound to the class and not the object of the class
+    '''
+    @staticmethod 
     def image_processing(eye_frame, threshold):
         """Performs operations on the eye frame to isolate the iris
 
@@ -24,11 +28,19 @@ class Pupil(object):
             eye_frame (numpy.ndarray): Frame containing an eye and nothing else
             threshold (int): Threshold value used to binarize the eye frame
 
+            Binarization is the method of converting any gray – scale image (multi tone image) into black – white image
+            (two tone image) . To perform binarization process, first find the threshold value of gray scale and check 
+            whether a pixel having a particular gray value or not.
+            If the gray value of the pixels is greater than the threshold, then those pixels are converted into the white.
+            Similarly if the gray value of the pixels is lesser than the threshold, then those pixels are converted into 
+            the black.
+
         Returns:
             A frame with a single element representing the iris
         """
         kernel = np.ones((3, 3), np.uint8)
-        new_frame = cv2.bilateralFilter(eye_frame, 10, 15, 15)
+        new_frame = cv2.bilateralFilter(eye_frame, 10, 15, 15)  #A bilateral filter is used for smoothening images and reducing noise
+                                                                #cv.bilateralFilter() is highly effective in noise removal while keeping edges sharp.
         new_frame = cv2.erode(new_frame, kernel, iterations=3)
         new_frame = cv2.threshold(new_frame, threshold, 255, cv2.THRESH_BINARY)[1]
 
