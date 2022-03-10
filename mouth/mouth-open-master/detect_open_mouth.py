@@ -1,6 +1,3 @@
-# USAGE
-# python detect_drowsiness.py --shape-predictor shape_predictor_68_face_landmarks.dat
-# python detect_drowsiness.py --shape-predictor shape_predictor_68_face_landmarks.dat --alarm alarm.wav
 
 # import the necessary packages
 from scipy.spatial import distance as dist
@@ -39,7 +36,7 @@ ap.add_argument("-w", "--webcam", type=int, default=0,
 args = vars(ap.parse_args())
 
 # define one constants, for mouth aspect ratio to indicate open mouth
-MOUTH_AR_THRESH = 0.79
+MOUTH_AR_THRESH = 0.70
 
 # initialize dlib's face detector (HOG-based) and then create
 # the facial landmark predictor
@@ -81,6 +78,7 @@ while True:
 		# array
 		shape = predictor(gray, rect)
 		shape = face_utils.shape_to_np(shape)
+		#print(shape)
 
 		# extract the mouth coordinates, then use the
 		# coordinates to compute the mouth aspect ratio
@@ -97,8 +95,11 @@ while True:
 
         # Draw text if mouth is open
 		if mar > MOUTH_AR_THRESH:
+			print(mar, "Mouth is open")
 			cv2.putText(frame, "Mouth is Open!", (30,60),
 			cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0,0,255),2)
+		else:
+			print(mar, "Mouth is closed")
 	# Write the frame into the file 'output.avi'
 	out.write(frame)
 	# show the frame
