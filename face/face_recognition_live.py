@@ -31,6 +31,7 @@ while(True):
     if faces_rect == t:
         print('no face')
     else:
+        print('face is detected')
         des_face = des_face +1
     
 
@@ -43,10 +44,14 @@ while(True):
         
         if label != id:
             print('recognized person is not you')
+        else:
+            print('your face is recognized')
         if confidence > 100:
             print('face is not clearly visible')
+        else:
+            print('face is clearly visible')
 
-        #print(f'Label = {label} with a confidence of {confidence}')  #confidence - the distance to the closest item in the database
+        print(f'Label = {label} with a confidence of {confidence}')  #confidence - the distance to the closest item in the database
                                                                      #i.e smaller the better
 
         cv.rectangle(frame, (x,y), (x+w,y+h), (0,255,0), thickness=2)
