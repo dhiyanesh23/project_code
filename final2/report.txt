@@ -1,0 +1,943 @@
+04/03/2022, 12:24:04
+no face
+
+04/03/2022, 12:24:04
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 46.554085779095146
+
+04/03/2022, 12:24:05
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 47.48563360913071
+0.6873891050488747 - Mouth is closed
+
+04/03/2022, 12:24:05
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 51.49832963335525
+
+04/03/2022, 12:24:05
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 50.82231677640723
+
+04/03/2022, 12:24:06
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 55.52958929024138
+
+04/03/2022, 12:24:06
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 47.263961352462516
+
+04/03/2022, 12:24:06
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 39.93339070304057
+
+04/03/2022, 12:24:07
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 42.90603279492454
+
+04/03/2022, 12:24:07
+no face
+
+04/03/2022, 12:24:07
+no face
+
+04/03/2022, 12:24:07
+no face
+
+04/03/2022, 12:24:08
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 46.04287696741597
+
+04/03/2022, 12:24:08
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 43.732143082196565
+
+04/03/2022, 12:24:08
+no face
+
+04/03/2022, 12:24:09
+no face
+
+04/03/2022, 12:24:09
+no face
+
+04/03/2022, 12:24:09
+no face
+
+04/03/2022, 12:24:09
+no face
+
+04/03/2022, 12:24:10
+no face
+
+04/03/2022, 12:24:10
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 46.32702566629004
+
+04/03/2022, 12:24:10
+no face
+
+04/03/2022, 12:24:10
+no face
+
+04/03/2022, 12:24:11
+no face
+
+04/03/2022, 12:24:11
+no face
+
+04/03/2022, 12:24:11
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 50.95661178068463
+
+04/03/2022, 12:24:12
+no face
+
+04/03/2022, 12:24:12
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 45.74493232207652
+0.6798031445107603 - Mouth is closed
+
+04/03/2022, 12:24:12
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 51.71891085737805
+
+04/03/2022, 12:24:12
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 51.1335892008433
+
+04/03/2022, 12:24:13
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 55.55540552524297
+
+04/03/2022, 12:24:13
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 56.93010703937828
+
+04/03/2022, 12:24:13
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 55.06094568760552
+0.6992456404840909 - Mouth is closed
+
+04/03/2022, 12:24:14
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 53.15018129932716
+0.7629218391309851 - Mouth is open
+
+04/03/2022, 12:24:14
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 56.130157428970655
+
+04/03/2022, 12:24:14
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 54.85598045117044
+
+04/03/2022, 12:24:15
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 50.82057982424307
+0.7843935868143089 - Mouth is open
+
+04/03/2022, 12:24:15
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 50.62611501229737
+0.7300639307828156 - Mouth is open
+
+04/03/2022, 12:24:15
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 46.347180827557416
+
+04/03/2022, 12:24:16
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 47.38210663601126
+
+04/03/2022, 12:24:16
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 64.0569129704884
+
+04/03/2022, 12:24:16
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 50.26515831192914
+face is recognized
+face is not clearly visible
+Label = 2 with a confidence of 121.59579020688474
+0.7309960027898234 - Mouth is open
+Looking left
+04/03/2022, 12:24:17
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 50.97483076928837
+0.7050580199180214 - Mouth is closed
+
+04/03/2022, 12:24:17
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 44.76672535422151
+0.702920911452467 - Mouth is closed
+
+04/03/2022, 12:24:17
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 45.57329848515322
+0.6817075793795732 - Mouth is closed
+Looking down
+04/03/2022, 12:24:18
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 44.44498737881125
+0.6733906273846283 - Mouth is closed
+
+04/03/2022, 12:24:18
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 41.60823460650544
+0.705536374064691 - Mouth is closed
+
+04/03/2022, 12:24:18
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 44.023178015277864
+0.6819996382268262 - Mouth is closed
+Looking center
+04/03/2022, 12:24:19
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 47.230287463684604
+0.7104009860181747 - Mouth is closed
+Looking center
+04/03/2022, 12:24:19
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 41.21137056854281
+0.6959065894947966 - Mouth is closed
+Looking center
+04/03/2022, 12:24:19
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 41.21692733071505
+0.6554309117170066 - Mouth is closed
+Looking center
+04/03/2022, 12:24:20
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 39.75582304273654
+0.662777074274877 - Mouth is closed
+Looking center
+04/03/2022, 12:24:20
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 40.832849920707744
+0.6751024356567017 - Mouth is closed
+
+04/03/2022, 12:24:20
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 41.31907017287469
+0.6597696620369947 - Mouth is closed
+
+04/03/2022, 12:24:21
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 40.58065052732891
+0.6607975947661645 - Mouth is closed
+
+04/03/2022, 12:24:21
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 39.78122683762838
+0.6412457847967004 - Mouth is closed
+
+04/03/2022, 12:24:21
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 38.62447491646351
+0.6407895627168554 - Mouth is closed
+
+04/03/2022, 12:24:22
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 40.65067577825201
+0.7334784497542784 - Mouth is open
+
+04/03/2022, 12:24:22
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 38.433398143993955
+0.7192998177300679 - Mouth is closed
+Looking down
+04/03/2022, 12:24:22
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 39.03255569427776
+0.7188572869137081 - Mouth is closed
+
+04/03/2022, 12:24:23
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 38.94939138272148
+0.741502288442302 - Mouth is open
+
+04/03/2022, 12:24:23
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 37.86318474621964
+0.7358867929408808 - Mouth is open
+Looking center
+04/03/2022, 12:24:23
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 38.775486117631885
+0.6653038058288623 - Mouth is closed
+Looking center
+04/03/2022, 12:24:24
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 41.83063706740389
+0.6596964860641115 - Mouth is closed
+Looking left
+04/03/2022, 12:24:24
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 38.77342944509442
+0.7509109125295261 - Mouth is open
+
+04/03/2022, 12:24:24
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 41.20950033007187
+0.7336135773528796 - Mouth is open
+
+04/03/2022, 12:24:24
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 39.573099234029016
+0.7222267846101103 - Mouth is open
+
+04/03/2022, 12:24:25
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 39.5330407414059
+0.6653287754089658 - Mouth is closed
+
+04/03/2022, 12:24:25
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 39.57050209568317
+0.6470594037358756 - Mouth is closed
+
+04/03/2022, 12:24:25
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 41.25269464047497
+0.6946791867540493 - Mouth is closed
+
+04/03/2022, 12:24:26
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 39.026233847042796
+0.721354738553407 - Mouth is open
+
+04/03/2022, 12:24:26
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 39.21134918929198
+0.6892145269855416 - Mouth is closed
+
+04/03/2022, 12:24:26
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 39.6368165573553
+0.7118449032298348 - Mouth is closed
+
+04/03/2022, 12:24:27
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 39.37122123138344
+0.7073398032898052 - Mouth is closed
+
+04/03/2022, 12:24:27
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 41.34690363078134
+0.7129425829924642 - Mouth is closed
+
+04/03/2022, 12:24:27
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 41.53087576452269
+0.7075835813026836 - Mouth is closed
+
+04/03/2022, 12:24:28
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 39.63250642244817
+0.7036182524845184 - Mouth is closed
+
+04/03/2022, 12:24:28
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 41.13820375045762
+0.6794568147465835 - Mouth is closed
+
+04/03/2022, 12:24:28
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 39.6352069534845
+0.7301573556784479 - Mouth is open
+
+04/03/2022, 12:24:28
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 39.75603138994328
+0.6660451540401854 - Mouth is closed
+
+04/03/2022, 12:24:29
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 41.39233282282174
+0.7625177689175395 - Mouth is open
+
+04/03/2022, 12:24:29
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 38.819473680494816
+0.702082595737936 - Mouth is closed
+
+04/03/2022, 12:24:29
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 38.9307846752852
+0.691633688853355 - Mouth is closed
+
+04/03/2022, 12:24:30
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 39.82431900949802
+0.6535255913622826 - Mouth is closed
+
+04/03/2022, 12:24:30
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 41.30110003163315
+0.61565608371884 - Mouth is closed
+
+04/03/2022, 12:24:30
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 40.092519702911474
+0.6380501352053993 - Mouth is closed
+
+04/03/2022, 12:24:31
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 42.204959919905704
+0.6190160406244063 - Mouth is closed
+
+04/03/2022, 12:24:31
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 41.884121129754085
+0.6285371454638267 - Mouth is closed
+
+04/03/2022, 12:24:31
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 41.12502745853596
+0.7188572869137081 - Mouth is closed
+
+04/03/2022, 12:24:32
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 39.91940669615861
+0.7035726779150389 - Mouth is closed
+Looking center
+04/03/2022, 12:24:32
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 40.72666785536706
+0.7224725083765189 - Mouth is open
+
+04/03/2022, 12:24:32
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 41.47030035554689
+0.6858388917314412 - Mouth is closed
+
+04/03/2022, 12:24:32
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 40.53976841256946
+0.7386411281241185 - Mouth is open
+
+04/03/2022, 12:24:33
+face is detected
+face is recognized
+face is not clearly visible
+Label = 2 with a confidence of 143.37897442648247
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 41.02212133473511
+0.7061262097366516 - Mouth is closed
+
+04/03/2022, 12:24:33
+face is detected
+face is recognized
+face is not clearly visible
+Label = 2 with a confidence of 135.34581393851101
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 41.553451911063405
+0.7391318857068881 - Mouth is open
+
+04/03/2022, 12:24:33
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 43.49243365705333
+0.7383171117645997 - Mouth is open
+
+04/03/2022, 12:24:34
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 43.06426103798019
+0.7758401340458405 - Mouth is open
+
+04/03/2022, 12:24:34
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 44.78430663980286
+0.7386036354854206 - Mouth is open
+
+04/03/2022, 12:24:34
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 41.13989243633488
+0.7765023263478968 - Mouth is open
+
+04/03/2022, 12:24:35
+face is detected
+face is recognized
+face is not clearly visible
+Label = 2 with a confidence of 133.703956358509
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 44.244927345396036
+0.7572365542676818 - Mouth is open
+
+04/03/2022, 12:24:35
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 45.39004761602022
+0.7836992003348814 - Mouth is open
+
+04/03/2022, 12:24:35
+face is detected
+face is recognized
+face is not clearly visible
+Label = 2 with a confidence of 135.7512650462353
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 41.238294060906355
+0.7818529967185739 - Mouth is open
+
+04/03/2022, 12:24:36
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 42.811317692883
+0.7767126465084454 - Mouth is open
+
+04/03/2022, 12:24:36
+face is detected
+face is recognized
+face is not clearly visible
+Label = 2 with a confidence of 136.36518268980234
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 41.61048194317497
+0.6723415428144174 - Mouth is closed
+
+04/03/2022, 12:24:36
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 39.98618127380807
+0.7030216024998035 - Mouth is closed
+
+04/03/2022, 12:24:37
+face is detected
+face is recognized
+face is not clearly visible
+Label = 2 with a confidence of 134.28299670605722
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 40.32689859427904
+0.6808370834359221 - Mouth is closed
+
+04/03/2022, 12:24:37
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 39.974340101928405
+0.7188572869137081 - Mouth is closed
+
+04/03/2022, 12:24:38
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 40.571847750938275
+0.7073028682878596 - Mouth is closed
+Looking center
+04/03/2022, 12:24:38
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 38.956677445046516
+0.7198043113844449 - Mouth is closed
+
+04/03/2022, 12:24:38
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 37.399570668980346
+0.6572409505470895 - Mouth is closed
+
+04/03/2022, 12:24:39
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 35.07904379617902
+
+04/03/2022, 12:24:39
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 36.73404563598233
+
+04/03/2022, 12:24:39
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 35.59135976881833
+
+04/03/2022, 12:24:40
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 34.45706982103784
+face is recognized
+face is not clearly visible
+Label = 2 with a confidence of 137.27131943208596
+
+04/03/2022, 12:24:40
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 33.91681857755872
+
+04/03/2022, 12:24:40
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 33.78948465290143
+
+04/03/2022, 12:24:41
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 35.35854410256231
+
+04/03/2022, 12:24:41
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 34.92547160703366
+
+04/03/2022, 12:24:41
+face is detected
+face is recognized
+face is not clearly visible
+Label = 2 with a confidence of 142.6649780506
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 35.16619171734171
+
+04/03/2022, 12:24:42
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 35.37838869836806
+0.7276124844900986 - Mouth is open
+
+04/03/2022, 12:24:42
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 34.71879806854122
+
+04/03/2022, 12:24:42
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 35.111268601709156
+
+04/03/2022, 12:24:43
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 34.446818774403845
+0.697817377610086 - Mouth is closed
+
+04/03/2022, 12:24:43
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 36.60704590505591
+0.7080414751615505 - Mouth is closed
+
+04/03/2022, 12:24:43
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 35.245250455681614
+
+04/03/2022, 12:24:44
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 35.93752371196864
+
+04/03/2022, 12:24:44
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 36.206567105944245
+0.7359569760339236 - Mouth is open
+
+04/03/2022, 12:24:44
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 35.832786619748674
+0.7032559519749457 - Mouth is closed
+
+04/03/2022, 12:24:45
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 34.694621258744085
+0.722422968318332 - Mouth is open
+
+04/03/2022, 12:24:45
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 33.14774752949646
+0.6945112693958024 - Mouth is closed
+Looking center
+04/03/2022, 12:24:45
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 35.56322190095527
+0.6975212686296456 - Mouth is closed
+
+04/03/2022, 12:24:46
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 53.89964293579489
+0.6859466063503805 - Mouth is closed
+
+04/03/2022, 12:24:46
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 49.6873567591545
+0.6602308763155139 - Mouth is closed
+
+04/03/2022, 12:24:46
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 50.90094104687063
+
+04/03/2022, 12:24:47
+no face
+
+04/03/2022, 12:24:47
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 65.98235854371332
+
+04/03/2022, 12:24:47
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 53.20029431855235
+
+04/03/2022, 12:24:47
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 50.53601682113797
+
+04/03/2022, 12:24:48
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 54.32247501567416
+
+04/03/2022, 12:24:48
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 52.93924755720595
+
+04/03/2022, 12:24:48
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 53.61810424838504
+
+04/03/2022, 12:24:48
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 50.95983701276885
+
+04/03/2022, 12:24:49
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 47.99710775124628
+
+04/03/2022, 12:24:49
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 49.53328640182594
+
+04/03/2022, 12:24:49
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 42.20573777702723
+
+04/03/2022, 12:24:50
+face is detected
+face is recognized
+face is clearly visible
+Label = 2 with a confidence of 44.623464587821495
+
+04/03/2022, 12:24:50
+no face
+
